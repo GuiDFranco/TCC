@@ -80,10 +80,19 @@
             </label>
             <select id="countries" class="bg-white border border-gray-300 text-gray-900 text-sm rounded-lg focus:gray-900 focus:border-gray-900 block w-full p-2.5 dark:bg-white dark:border-gray-600 dark:placeholder-gray-4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZV">
               <option selected>Escolha o Horario</option>
-              <option value="">1</option>
-              <option value=""></option>
-              <option value=""></option>
-              <option value=""></option>
+              <option value="">9:00</option>
+              <option value="">9:40</option>
+              <option value="">10:20</option>
+              <option value="">11:00</option>
+              <option value="">14:00</option>
+              <option value="">14:30</option>
+              <option value="">15:00</option>
+              <option value="">15:30</option>
+              <option value="">16:00</option>
+              <option value="">16:30</option>
+              <option value="">17:00</option>
+              <option value="">17:30</option>
+              <option value="">18:00</option>
             </select>
           </div>
         </div>

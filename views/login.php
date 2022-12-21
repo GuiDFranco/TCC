@@ -39,12 +39,12 @@
                         </div>
                         <button type="submit" href="painel.php?r=inicial" id="btnLogin" class="w-full text-white bg-gradient-to-r from-blue-500 via-blue-600 to-blue-700 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 shadow-lg shadow-blue-500/50 dark:shadow-lg dark:shadow-blue-800/80 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2 ">Login</button>
                         <p class="text-sm font-light text-gray-500 dark:text-gray-400">
-                            Não tem uma conta ainda?<a href="painel.php?r=signup" class="font-medium text-primary-600 hover:underline dark:text-primary-500">Inscrever-se</a>
+                            Não tem uma conta ainda?<a href="painel.php?r=signup" class="font-medium text-primary-600 hover:underline dark:text-primary-500"> Inscrever-se</a>
                         </p>
                        
                         <button type="button" href = "painel.php?r=inicial" id="btnAuthGoogle" class="text-gray-900 bg-white hover:bg-gray-100 border border-gray-200 focus:ring-4 focus:outline-none focus:ring-gray-100 font-medium rounded-lg text-sm px-5 py-2.5 text-center inline-flex items-center dark:focus:ring-gray-800 dark:bg-white dark:border-gray-700 dark:text-gray-900 dark:hover:bg-gray-200 mr-2 mb-2">
                         <img class="w-6 h-6 right-3 relative" src="img/google.svg" alt="">
-                        Criar com Google
+                        Continuar com Google
                          </button>
                     </form>
                 </div>
